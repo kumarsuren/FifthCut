@@ -70,12 +70,12 @@
 <div class="navbar navbar-fixed-top">
   <div class="navbar-inner">
     <div class="container">
-      <a href="/" class="brand">Spring MVC and Hibernate Template</a>
+      <a href="/" class="brand">Spring MVC and Hibernate Template customized by Venkat</a>
       <!--
       IMPORTANT:
       This is Heroku specific markup. Remove to customize.
       -->
-      <a href="/" class="brand" id="heroku">by <strong>heroku</strong></a>
+      <a href="/" class="brand" id="heroku">by <strong>heroku  Venkat</strong></a>
       <!-- /// -->
     </div>
   </div>
@@ -87,6 +87,10 @@
 <h1 class="alert alert-success">Your app is ready!</h1>
 
 <div class="page-header">
+
+ <h1>Welcome Venkat ......</h1>
+
+
   <h1>Get started with your Spring MVC and Hibernate Application</h1>
 </div>
 
