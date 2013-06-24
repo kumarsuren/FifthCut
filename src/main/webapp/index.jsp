@@ -89,6 +89,8 @@
 <div class="page-header">
 
  <h1>Welcome Venkat ......</h1>
+ 
+ <h1>This is looking really promising....</h1>
 
 
   <h1>Get started with your Spring MVC and Hibernate Application</h1>
