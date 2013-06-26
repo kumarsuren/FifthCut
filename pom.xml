@@ -73,8 +73,8 @@
                 <configuration>
                     <source>1.6</source>
                     <target>1.6</target>
-                    <version>2.3.2</version>
-                </configuration>
+               </configuration>
+                <version>3.1</version>
             </plugin>
             <plugin>
                 <artifactId>maven-war-plugin</artifactId>
