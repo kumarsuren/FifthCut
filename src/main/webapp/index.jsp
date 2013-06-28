@@ -93,7 +93,7 @@
  <h1>This is looking really promising....</h1>
  <h1>Now I will start adding more functionality into this </h1>
 
-  <h1>Get started with your Spring MVC and Hibernate Application</h1>
+  <h1>This contains Spring MVC with postgres</h1>
 </div>
 
 <div style="margin-bottom: 20px">
@@ -340,7 +340,7 @@ c.orderBy(em.getCriteriaBuilder().asc(from.get("lastName")));
     <h1>Done!</h1>
 
     <p>You've just cloned, modified, and deployed a brand new app.</p>
-    <a href="/people/" class="btn btn-primary btn-large">See your changes</a>
+    <a href="people/" class="btn btn-primary btn-large">See your changes</a>
 
     <p style="margin-top: 20px">Learn more at the
       <a href="http://devcenter.heroku.com/categories/java">Heroku Dev Center</a></p>
