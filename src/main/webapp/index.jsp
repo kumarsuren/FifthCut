@@ -90,10 +90,7 @@
 
  <h1>Welcome Venkat ......</h1>
  
- <h1>This is looking really promising....</h1>
- <h1>Now I will start adding more functionality into this </h1>
-
-  <h1>This contains Spring MVC with postgres</h1>
+ <h1>This contains Spring MVC with postgres</h1>
 </div>
 
 <div style="margin-bottom: 20px">
