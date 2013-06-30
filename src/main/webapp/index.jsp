@@ -91,6 +91,9 @@
  <h1>Welcome Venkat ......</h1>
  
  <h1>This contains Spring MVC with postgres</h1>
+ 
+ <h2> Restored back to regular deployment </h2>
+ 
 </div>
 
 <div style="margin-bottom: 20px">
